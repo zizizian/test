@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>
+					https://mp-bff6a23e-f473-46c1-b5ea-88ff6c177b38.cdn.bspapp.com/cloudstorage/__UNI__36D0E0D_20240425110642.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>full-size-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://hdty-lottery.oss-cn-hangzhou.aliyuncs.com/2024-04-23/991dd4d7c49ccde086d3484e7b4ce30.png</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
+					<string>https://hdty-lottery.oss-cn-hangzhou.aliyuncs.com/2024-04-23/991dd4d7c49ccde086d3484e7b4ce30.png</string>
+				</dict>
+			</array>
+			<key>metadata</key>
+ <dict>
+                    <key>bundle-identifier</key>
+                    <string>hdty</string>
+                    <key>bundle-version</key>
+                    <string>0.0.6</string>
+                    <key>kind</key>
+                    <string>software</string>
+                    <key>title</key>
+                    <string>鸿单小店</string>
+                </dict>
+		</dict>
+	</array>
+</dict>
+</plist>
